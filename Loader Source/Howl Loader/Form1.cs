@@ -33,12 +33,15 @@ namespace Howl_Loader
         // Copy from "new byte[] { ALL THE WAY TO }
         // Now change the byte[] urlBytes from new byte to the semi colon to what you got from encrypter.exe
         // Your cheat is now ready to go!
-
-        // Notes from Thaisen:
-        // 1.) You have been a massive dick and an annoyance through this project. I will not be working with you any farther over anything
-        // 2.) You should really learn to code before you try to sell a cheat
-        // 3.) You should REALLY not sell a paste or I will personally null "your" cheat
-        // 4.) Any attempt to refund will not work from everything you sent me
+        
+        // Notes about Josh and HowlWare
+        // HowlWare is a paste.
+        // Josh is known by people in the cheat for scamming.
+        // Josh sends lackies after you if you do anything.
+        // He lied to PayPal in the refund attempt
+        // He treats his devs like shit
+        // He is an annoying prick.
+        // I advise you to not use his cheat or work with him
         #endregion
 
         // Your cheat name to show in the registry
