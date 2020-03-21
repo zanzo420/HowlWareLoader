@@ -60,7 +60,7 @@ namespace Howl_Loader
         {
             // Stupid line for the password text box, makes it so when text exists it's hidden
             txtPassword.isPassword = true;
-
+            MessageBox.Show("Head to VanguardLoaders.com for a secure loader! Use promo code THAISEN for 10% off your first invoice");
             // Checking registry info
             Microsoft.Win32.RegistryKey key;
             key = Microsoft.Win32.Registry.CurrentUser.CreateSubKey(RegistryName);
